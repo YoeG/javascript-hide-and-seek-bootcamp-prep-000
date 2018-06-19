@@ -19,6 +19,6 @@ function increaseRankBy (n)
 
 {
   
-  
+  document.querySelectorAll('ranked-list')[0]
   
 }
