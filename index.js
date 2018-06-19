@@ -7,4 +7,9 @@ function getFirstSelector(selector)
 }
 
 
-console.log(getFirstSelector('li').innerHTML)
+function nestedTarget ()
+{
+  
+  
+  
+}
