@@ -10,6 +10,6 @@ function getFirstSelector(selector)
 function nestedTarget ()
 {
   
-  document.getElementById
+  return document.getElementById('nested').target
   
 }
